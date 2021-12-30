@@ -224,7 +224,7 @@
         showAllItemsToUI(products);
 
         document.querySelector(".update-product").remove();
-        //update in UI
+        //update in local storage
         updateProductToLOcalStorage();
         //
       }
